@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\pr\2.1\2.1\Triangle.cpp(30,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+E:\pr\2.1\2.1\Triangle.cpp(102,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+     Creating library E:\pr\2.1\Debug\UnitTest1.lib and object E:\pr\2.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\pr\2.1\Debug\UnitTest1.dll
